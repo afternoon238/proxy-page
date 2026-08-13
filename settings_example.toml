@@ -1,0 +1,4 @@
+app_key = "189rjfadoisfj8923fjio"
+listen_port = "7500"
+bind_address = "127.0.0.1"
+remote_addr = ["172.16.50.8", "172.16.50.17", "172.16.50.27"]
