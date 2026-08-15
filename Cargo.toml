@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 config="0.15.25"
+rustls = "0.23.43"
+webpki-roots = "1.0.9"
